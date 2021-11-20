@@ -1,0 +1,32 @@
+._about {
+  background-color: #122932;
+  margin-top: 10px;
+  color: white;
+}
+
+._aboutTitle {
+  font-family: "Open Sans", sans-serif;
+}
+
+._aboutImage > img {
+  position: relative;
+  top: 20%;
+  width: auto;
+  height: 450px;
+}
+
+._aboutContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex: 1;
+  padding: 20px;
+}
+
+._aboutinfo {
+  padding: 140px;
+}
+
+._aboutinfo > p {
+  text-align: justify;
+}

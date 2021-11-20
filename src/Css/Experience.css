@@ -1,0 +1,16 @@
+._experience {
+  background-color: #283845;
+  color: white;
+  padding: 100px;
+  margin-top: 10px;
+}
+
+._experienceContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+._experienceSummary {
+  padding-left: 5%;
+  padding-top: 10%;
+}
