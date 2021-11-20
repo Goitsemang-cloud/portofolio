@@ -17,9 +17,9 @@ export default function Home() {
           </p>
           <p>
             i want to be a developer at Sovtech,Because i love developing and i
-            has been learnig and brusing up my skills. I’m passionate about
+            have been learning and brusing up my skills. I’m passionate about
             creating things, and I love learning new techniques and technologies
-            that allow me to build project that are better and good looking.”
+            that allow me to build projects that are better and good looking.”
           </p>
           <div className="_homelinkinfo">
             <a
