@@ -4,7 +4,7 @@ import web from "../Media/web.png";
 
 export default function About() {
   return (
-    <div className="_about">
+    <div className="_about" id="_about">
       <div className="_aboutContainer">
         <div className="_aboutinfo">
           <h3 className="_aboutTitle">About Me</h3>

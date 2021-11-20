@@ -9,10 +9,18 @@ export default function TobarNav() {
       </div>
       <div className="_topbarMenu">
         <ul className="_topbarOption">
-          <li>Home</li>
-          <li>About</li>
-          <li>Experience</li>
-          <li>Project</li>
+          <li>
+            <a href="#_home">Home</a>
+          </li>
+          <li>
+            <a href="#_about">About</a>
+          </li>
+          <li>
+            <a href="#_experience">Experience</a>
+          </li>
+          <li>
+            <a href="#_project">Project</a>
+          </li>
         </ul>
       </div>
     </div>

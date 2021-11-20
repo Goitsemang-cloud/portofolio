@@ -4,7 +4,7 @@ import uj_logo from "../Media/InsImg.gif";
 
 export default function Experience() {
   return (
-    <div className="_experience">
+    <div className="_experience" id="_experience">
       <h2>Experience</h2>
       <div className="_experienceContainer">
         <div className="_experienceinfo">
